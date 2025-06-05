@@ -5,6 +5,9 @@
   "model": "llama-3.1-sauerkrautlm-70b-instruct",
   "temperature": 0,
   "top_p": 0.05,
+  "arcana": {
+     "id" : "martin.huefner/Master_Informatik"
+    },
   "messages": [
     {
       "role": "system",
